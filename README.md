@@ -12,4 +12,5 @@ The basic flow of PODEM is illustrated in the flowchart. Although it is a determ
 ## Output 
 
 Logic Ssmulations are stored in the ".response" Files
+
 Test Patterns are stored int the".Pattern" Files
