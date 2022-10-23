@@ -1,7 +1,7 @@
 # PODEM-Algorithm-Implementation
 The objective of the project is to implement in C programming language the PODEM algorithm to generate test vectors for a given fault
 
-The tool will detect all the detectable faults and provide the corresponding test vectors for each fault. The inputs will be circuit structures and fault list with size two times the number of nodes. All faults are single stuck at faults chosen one at a time.
+The tool will detect all the detectable faults and provide the corresponding test vectors for each fault. The inputs will be circuit structures (ISCAS-85 benchmark combinational circuit) and its fault list with size two times the number of nodes. All faults are single stuck at faults chosen one at a time.
 
 
 ## Algorithm
@@ -11,6 +11,6 @@ The basic flow of PODEM is illustrated in the flowchart. Although it is a determ
 
 ## Output 
 
-Logic Ssmulations are stored into the ".response" Files
+Results are stored into the ".response" Files
 
-Test Patterns are stored into the".Pattern" Files
+
